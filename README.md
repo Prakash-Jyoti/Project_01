@@ -38,10 +38,10 @@ The **DC-DC Buck Converter** operates using:
 
 ## 📷 Project Images
 ### **Circuit Schematic:**
-![Schematic](x.jpeg)
+![Schematic](https://github.com/user-attachments/assets/13247c97-9843-4767-a462-158c772c542d)
 
 ### **3D PCB Design:**
-![PCB Design](x1.png)
+![PCB Design](https://github.com/user-attachments/assets/1352bcff-f496-4756-9698-32fc9c990f15)
 
 ## 📌 Applications
 - **Electric Vehicles (EVs)** - Step-down power for auxiliary systems.
@@ -53,5 +53,5 @@ This project is open-source under the **MIT License**. Feel free to modify and u
 
 ---
 ### 💡 Let's Connect!
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/Prakash-Jyoti)  
+🔗 **GitHub:** [GitHub Profile](https://github.com/Prakash-Jyoti)  
 📧 **Email:** eee.23beeg12@silicon.ac.in
