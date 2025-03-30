@@ -53,5 +53,5 @@ This project is open-source under the **MIT License**. Feel free to modify and u
 
 ---
 ### 💡 Let's Connect!
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
-📧 **Email:** your.email@example.com
+🔗 **GitHub:** [Your GitHub Profile](https://github.com/Prakash-Jyoti)  
+📧 **Email:** eee.23beeg12@silicon.ac.in
