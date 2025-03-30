@@ -1,6 +1,5 @@
 # 1st-project
 <br>
-author- Jyoti Prakash
 # DC-DC Buck Converter (48V to 12V) - Power Electronics Project
 
 ## 🔥 Overview
