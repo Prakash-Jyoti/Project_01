@@ -49,7 +49,7 @@ The **DC-DC Buck Converter** operates using:
 - **Industrial Power Supplies** - Reliable voltage regulation.
 
 ## 📜 License
-This project is open-source under the **MIT License**. Feel free to modify and use it for your applications.
+This project is open-source under the **MIT License**.
 
 ---
 ### 💡 Let's Connect!
