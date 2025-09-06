@@ -1,5 +1,3 @@
-# Project_01
-<br>
 # DC-DC Buck Converter (48V to 12V) - Power Electronics Project
 
 ## 🔥 Overview
